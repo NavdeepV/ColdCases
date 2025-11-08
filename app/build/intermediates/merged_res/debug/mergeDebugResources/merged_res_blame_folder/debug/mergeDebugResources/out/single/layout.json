@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/item_case_card.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/item_case_card.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/activity_cases.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/activity_cases.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/activity_login_signup.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/activity_login_signup.xml"
+    },
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/activity_cases.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/activity_cases.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/activity_profile.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/activity_splash.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/activity_splash.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/activity_login_signup.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/activity_login_signup.xml"
+    },
+    {
+        "merged": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-mergeDebugResources-43:/layout/activity_profile.xml",
+        "source": "/Users/navdeepvirdi/.gradle/daemon/8.13/com.example.coldcases.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/item_case_card.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/item_case_card.xml"
+    },
+    {
+        "merged": "com.example.coldcases.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.coldcases.app-main-46:/layout/activity_main.xml"
+    }
+]
