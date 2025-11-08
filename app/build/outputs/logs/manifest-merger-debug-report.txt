@@ -1,0 +1,718 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.databinding:viewbinding:8.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4b9704d136c023aa2ac7ea097bd5b3b2/transformed/viewbinding-8.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/20c109b06385bd8b681a4ae9f71c0a70/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/34f3a9f726cf1e03204839dd36f7e862/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a4f891e5f5ddbe6e837b400b5865c6a/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3cb637501459b23eea780e145db8732c/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a38bfc8b91338b08a428d566344076f/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/429af2e3e460798a7328a8d292d9136f/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/072b36b4d6eb64adabce178d7cc89ebc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cdc6b3b5a2d6a614fff07ac0976d0047/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac5beffb856b75f86e668df8b5488d61/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8723d797d348d1dd855735c7c7ad1749/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4bde17f4da7f5bf36280c88450b32417/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/0b07c9dcc2e4bb128ee4bda1b6d30be4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7db6658298eaa36db2a336f212469298/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3a03d6834442d10a38c9198b8c8d6d70/transformed/integrity-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4a063236b12f1162a68c1bf47e91e22a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/47d5a1bac2576dc8ddba599bc1dbde12/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a7aeb677a311775a0cd804b2bf1ff925/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5f0e1cb8fd4027412a5dac5e5cb61514/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/97d377fa9478591e211f37af00e2961b/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac9a44e4b7ee7203351698697abb1b37/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6c8acf6f6354e69cb262597a1c6b1c52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5489b5ab2a6d6b04c27e6cb89049441b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bfb515b69ccaa6913de63f298c6c69e2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cb608826f9d0285b837735264d9b847d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4024e8eb0dacefa95f710d2ba4c1c8a5/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f326f1cd59d7ca611e2a1c04b9403ee6/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5da4aeddeb760b7e1e73ae72a05fd70b/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/45ab29037bf22da8e65aa2c43b19e867/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/59ce5c1510c8e18b8fac7ac501c38f8d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2ab9cacccd051d75be823e42ade8cf1e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fb0ffb267d77aed51eefd68f1b1c4eba/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/19b82e7042d731b204855aafc0ece0a8/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e3bcfed65ba56f8f42204720430774c6/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f2dd52cb9b6f0226a3769a90da836925/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.11.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7dcdacbb8c306d9b861d3c7c9de83150/transformed/activity-1.11.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/be2284c9c58ed0a886ac245ebc09249d/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b862288ce0a3f02326a7c1c0edfa5924/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b2a8dddd16b6497f6c6ea0c487fe781a/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7ce1262bf24a74a39bf9f38071805a6a/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/807916aae2414a54f037533331b32e89/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/d93526b89ce7c80b84e14614f5dd399d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a99423951039799587f6550eeb869c86/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ed8ff953c7198e2dc913df8a91f66daf/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/858c8578163bb7e3d97b457a874fb0ec/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/824ff929a423fff8a3d2806313073510/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fc4629d79b900bec1490e848a9733067/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ab72e351ec87e0b7caa28f77476a573a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8fee466d964221117247e157626b2d03/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/651796264200dd15deb08cf1773c4797/transformed/grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a90316e415639ec0020caa626b081225/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/651796264200dd15deb08cf1773c4797/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/651796264200dd15deb08cf1773c4797/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:11:5-48:19
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:11:5-48:19
+MERGED from [com.google.android.material:material:1.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/20c109b06385bd8b681a4ae9f71c0a70/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/20c109b06385bd8b681a4ae9f71c0a70/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/34f3a9f726cf1e03204839dd36f7e862/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/34f3a9f726cf1e03204839dd36f7e862/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/429af2e3e460798a7328a8d292d9136f/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/429af2e3e460798a7328a8d292d9136f/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/072b36b4d6eb64adabce178d7cc89ebc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/072b36b4d6eb64adabce178d7cc89ebc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4bde17f4da7f5bf36280c88450b32417/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4bde17f4da7f5bf36280c88450b32417/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7db6658298eaa36db2a336f212469298/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7db6658298eaa36db2a336f212469298/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3a03d6834442d10a38c9198b8c8d6d70/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3a03d6834442d10a38c9198b8c8d6d70/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e3bcfed65ba56f8f42204720430774c6/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e3bcfed65ba56f8f42204720430774c6/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/824ff929a423fff8a3d2806313073510/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/824ff929a423fff8a3d2806313073510/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:14:9-54
+	android:roundIcon
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:19:9-47
+	android:dataExtractionRules
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:13:9-65
+activity#com.example.coldcases.SplashActivity
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:exported
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:23:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.example.coldcases.MainActivity
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.example.coldcases.ProfileActivity
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:35:13-44
+activity#com.example.coldcases.CasesActivity
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:38:13-42
+activity#com.example.coldcases.LoginSignupActivity
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:41:13-48
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:44:9-46:49
+	android:value
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml:45:13-58
+uses-sdk
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4b9704d136c023aa2ac7ea097bd5b3b2/transformed/viewbinding-8.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4b9704d136c023aa2ac7ea097bd5b3b2/transformed/viewbinding-8.13.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/20c109b06385bd8b681a4ae9f71c0a70/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/20c109b06385bd8b681a4ae9f71c0a70/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/34f3a9f726cf1e03204839dd36f7e862/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/34f3a9f726cf1e03204839dd36f7e862/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a4f891e5f5ddbe6e837b400b5865c6a/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a4f891e5f5ddbe6e837b400b5865c6a/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3cb637501459b23eea780e145db8732c/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3cb637501459b23eea780e145db8732c/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a38bfc8b91338b08a428d566344076f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7a38bfc8b91338b08a428d566344076f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/429af2e3e460798a7328a8d292d9136f/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/429af2e3e460798a7328a8d292d9136f/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/072b36b4d6eb64adabce178d7cc89ebc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/072b36b4d6eb64adabce178d7cc89ebc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cdc6b3b5a2d6a614fff07ac0976d0047/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cdc6b3b5a2d6a614fff07ac0976d0047/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac5beffb856b75f86e668df8b5488d61/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac5beffb856b75f86e668df8b5488d61/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8723d797d348d1dd855735c7c7ad1749/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8723d797d348d1dd855735c7c7ad1749/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4bde17f4da7f5bf36280c88450b32417/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4bde17f4da7f5bf36280c88450b32417/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/0b07c9dcc2e4bb128ee4bda1b6d30be4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/0b07c9dcc2e4bb128ee4bda1b6d30be4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7db6658298eaa36db2a336f212469298/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7db6658298eaa36db2a336f212469298/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3a03d6834442d10a38c9198b8c8d6d70/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3a03d6834442d10a38c9198b8c8d6d70/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4a063236b12f1162a68c1bf47e91e22a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4a063236b12f1162a68c1bf47e91e22a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/47d5a1bac2576dc8ddba599bc1dbde12/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/47d5a1bac2576dc8ddba599bc1dbde12/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a7aeb677a311775a0cd804b2bf1ff925/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a7aeb677a311775a0cd804b2bf1ff925/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5f0e1cb8fd4027412a5dac5e5cb61514/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5f0e1cb8fd4027412a5dac5e5cb61514/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/97d377fa9478591e211f37af00e2961b/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/97d377fa9478591e211f37af00e2961b/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac9a44e4b7ee7203351698697abb1b37/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ac9a44e4b7ee7203351698697abb1b37/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6c8acf6f6354e69cb262597a1c6b1c52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6c8acf6f6354e69cb262597a1c6b1c52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5489b5ab2a6d6b04c27e6cb89049441b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5489b5ab2a6d6b04c27e6cb89049441b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bfb515b69ccaa6913de63f298c6c69e2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bfb515b69ccaa6913de63f298c6c69e2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cb608826f9d0285b837735264d9b847d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/cb608826f9d0285b837735264d9b847d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4024e8eb0dacefa95f710d2ba4c1c8a5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4024e8eb0dacefa95f710d2ba4c1c8a5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f326f1cd59d7ca611e2a1c04b9403ee6/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f326f1cd59d7ca611e2a1c04b9403ee6/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5da4aeddeb760b7e1e73ae72a05fd70b/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5da4aeddeb760b7e1e73ae72a05fd70b/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/45ab29037bf22da8e65aa2c43b19e867/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/45ab29037bf22da8e65aa2c43b19e867/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/59ce5c1510c8e18b8fac7ac501c38f8d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/59ce5c1510c8e18b8fac7ac501c38f8d/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2ab9cacccd051d75be823e42ade8cf1e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2ab9cacccd051d75be823e42ade8cf1e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fb0ffb267d77aed51eefd68f1b1c4eba/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fb0ffb267d77aed51eefd68f1b1c4eba/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/19b82e7042d731b204855aafc0ece0a8/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/19b82e7042d731b204855aafc0ece0a8/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e3bcfed65ba56f8f42204720430774c6/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e3bcfed65ba56f8f42204720430774c6/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f2dd52cb9b6f0226a3769a90da836925/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/f2dd52cb9b6f0226a3769a90da836925/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.11.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7dcdacbb8c306d9b861d3c7c9de83150/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7dcdacbb8c306d9b861d3c7c9de83150/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/be2284c9c58ed0a886ac245ebc09249d/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/be2284c9c58ed0a886ac245ebc09249d/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b862288ce0a3f02326a7c1c0edfa5924/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b862288ce0a3f02326a7c1c0edfa5924/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b2a8dddd16b6497f6c6ea0c487fe781a/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/b2a8dddd16b6497f6c6ea0c487fe781a/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7ce1262bf24a74a39bf9f38071805a6a/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/7ce1262bf24a74a39bf9f38071805a6a/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/807916aae2414a54f037533331b32e89/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/807916aae2414a54f037533331b32e89/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/d93526b89ce7c80b84e14614f5dd399d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/d93526b89ce7c80b84e14614f5dd399d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a99423951039799587f6550eeb869c86/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a99423951039799587f6550eeb869c86/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ed8ff953c7198e2dc913df8a91f66daf/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ed8ff953c7198e2dc913df8a91f66daf/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/858c8578163bb7e3d97b457a874fb0ec/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/858c8578163bb7e3d97b457a874fb0ec/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/824ff929a423fff8a3d2806313073510/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/824ff929a423fff8a3d2806313073510/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fc4629d79b900bec1490e848a9733067/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fc4629d79b900bec1490e848a9733067/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ab72e351ec87e0b7caa28f77476a573a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ab72e351ec87e0b7caa28f77476a573a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8fee466d964221117247e157626b2d03/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/8fee466d964221117247e157626b2d03/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/651796264200dd15deb08cf1773c4797/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/651796264200dd15deb08cf1773c4797/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a90316e415639ec0020caa626b081225/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a90316e415639ec0020caa626b081225/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/navdeepvirdi/AndroidStudioProjects/ColdCases/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/bf5b1f488698e82d59b640cc4973efed/transformed/play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/dbf6b2faaadf007271693cff0604bb3f/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a645cd14a08901c8dba2be8277d51c63/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/df2695b852adf6d1169119133f1b0efb/transformed/firebase-firestore-ktx-25.1.0/AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/3b03b47982c813f4b656833bed6e0fd0/transformed/firebase-firestore-25.1.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/6e89cee21cbcb7e92dfd9f8a37434b8d/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:12:17-119
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a135298fcb8bd8f662bcd3c8f01710ab/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/87eae3486cfaf7a0b6cb20b95aa4882a/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/fbda09966967b07ffcdc6a3fa3bf3699/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/5a53f13d9ed67c4d0c8a1dd6eb1fc5af/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/2939c84d18a2d4ca442c13e13e7ad9ad/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/e975b1c5e6be57d5b8180a872f256868/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/136a7d8e0aebdff507d812d4c401c6fd/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/ff5bc8c06e5c692930696e19a9d1114d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/832b6467e3d6055286d94e1715d017d3/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+permission#com.example.coldcases.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.coldcases.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/505317a472aca61458463f817884e785/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/a9b58cb912a6a331ead2511f21169924/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/844d2750e5ff55ef88cedf28cdb5fe74/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/navdeepvirdi/.gradle/caches/8.13/transforms/4d441fcb3d941608d6a4a6dae846352b/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
