@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cold Cases</string>
+    <string name="back">Back</string>
+    <string name="select_a_case">Select a Case</string>
+    <string name="profile">Profile</string>
+    <string name="cases_near_you">Cases Near You</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="cold_cases">COLD CASES</string>
+    <string name="click_here_to_sign_up_or_login">Click Here to Sign Up or Login</string>
+    <string name="cases">CASES</string>
+    <string name="cold">COLD</string>
+    <string name="profile_2">Profile</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="birthday_mm_dd_yyyy">Birthday (MM/DD/YYYY)</string>
+    <string name="age">Age</string>
+    <string name="email_example_email_com">Email: example@email.com</string>
+    <string name="logout">Logout</string>
+    <string name="app_logo">App Logo</string>
+    <string name="unsolved">Unsolved</string>
+    <string name="location">Location: ...</string>
+    <string name="description">Description: ...</string>
+</resources>

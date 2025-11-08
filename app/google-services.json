@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628137764107",
+    "project_id": "cold-cases",
+    "storage_bucket": "cold-cases.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628137764107:android:97e655b887b56976d1ee0e",
+        "android_client_info": {
+          "package_name": "com.example.coldcases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTtirS59xboCugMo37EJx9whMA4qSlLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
