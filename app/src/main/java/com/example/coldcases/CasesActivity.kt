@@ -58,7 +58,7 @@ class CasesActivity : AppCompatActivity(), OnMapReadyCallback {
         )
 
 
-        //temporary button---------------------------
+        //temporary button for testing visuals, needs to connect to individual cases later---------------------------
         val openDiscussionBtn: Button = findViewById(R.id.openDiscussionBtn)
         openDiscussionBtn.setOnClickListener {
             // Pass a case name to CommunityActivity
