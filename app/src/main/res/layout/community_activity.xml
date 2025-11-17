@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+
+    <!-- Toolbar with back button and case name -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/discussionToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:background="#B00000"
+        android:titleTextColor="#FFFFFF">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_arrow_back" />
+
+        <TextView
+            android:id="@+id/caseTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Case Title"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:layout_marginStart="25dp" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- FrameLayout to display "No comments yet" on RecyclerView -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!-- Comments List -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/commentsRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp"
+            android:textColor="#000000"/>
+
+        <!-- No comments yet -->
+        <TextView
+            android:id="@+id/noCommentsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No comments yet"
+            android:textColor="#888888"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:visibility="visible"/>
+    </FrameLayout>
+
+    <!-- Comment Input -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:textColor="#000000">
+
+        <EditText
+            android:id="@+id/commentInput"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:hint="Write a comment..."
+            android:paddingStart="15dp"
+            android:background="#B2B6BA"/>
+
+        <ImageButton
+            android:id="@+id/sendCommentBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="#B2B6BA"
+            android:src="@drawable/ic_send" />
+    </LinearLayout>
+
+</LinearLayout>
+
