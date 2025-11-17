@@ -7,6 +7,7 @@ import android.widget.ImageButton
 import android.widget.LinearLayout
 import android.widget.TextView
 import android.view.View
+import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
@@ -55,6 +56,16 @@ class CasesActivity : AppCompatActivity(), OnMapReadyCallback {
             location = "Disappeared in 2015, Oshawa",
             description = "Presumed missing"
         )
+
+
+        //temporary button---------------------------
+        val openDiscussionBtn: Button = findViewById(R.id.openDiscussionBtn)
+        openDiscussionBtn.setOnClickListener {
+            // Pass a case name to CommunityActivity
+            val intent = Intent(this, CommunityActivity::class.java)
+            intent.putExtra("caseName", "Cold Case #14 – Missing Person")
+            startActivity(intent)
+        }
     }
 
     override fun onMapReady(map: GoogleMap) {
